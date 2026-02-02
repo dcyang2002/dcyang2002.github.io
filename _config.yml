@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Dacheng Yang"
+title                    : "Homepage of ydc"
 description              : "A Ph.D. student from the School of Robotics and Automation at Nanjing University "
 repository               : "dcyang2002/dcyang2002.github.io"
 google_scholar_stats_use_cdn : true
